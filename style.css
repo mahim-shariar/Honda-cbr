@@ -1,0 +1,43 @@
+/* welcome section */
+
+.honda-w-bg{
+    background-color: #264653;
+}
+.honda-main-bg{
+    background-color: #E5E5E5;
+}
+/* google font */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+ .honda-padding-right{
+     padding-right: 0;
+
+ }
+
+.honda-h1-font-size{
+    font-size: 48px;
+}
+
+.honda-btn-color{
+    background-color: #E76F51;
+}
+
+.honda-img-color{
+    filter: grayscale(100%);
+
+}
+.honda-text-color{
+    color:#E76F51;
+}
+.honda-icon-color{
+    color: rgb(231, 201, 33);
+    
+}
+.img-width-user{
+    height: 149px;
+
+}
+.img-width-bike{
+    width: 96%;
+}
